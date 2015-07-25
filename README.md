@@ -1,1 +1,1 @@
-よろしくお願いします。
+# Test for pull request
